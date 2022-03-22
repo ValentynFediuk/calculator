@@ -49,5 +49,5 @@ const Input = ({setOutput, output, first, setFirst, second, arr, setArr, value, 
         </div>
     );
 };
-
+console.log('test')
 export default Input;
